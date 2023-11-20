@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Serhan, a Full-Stack Software Developer.
 
 <!--
 **serhanakin/serhanakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
