@@ -1,6 +1,5 @@
-Hi, I'm Serhan,  
-
-a Full-Stack Software Developer.
+Hi, I'm Serhan, a Full-Stack Software Developer.  
+I am building scalable web applications using Angular, .NET and SQL.
 
 <!--
 **serhanakin/serhanakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
